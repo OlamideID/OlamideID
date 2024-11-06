@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Idowu Akinola Reuben
+- 👀 I’m interested in Football, programming
+- 🌱 I’m currently learning Crossplatform Development with Flutter and Dart
+- 💞️ I’m looking to collaborate on as many projects as possible
+- 📫 How to reach me
+- Gmail: iakinola926@gmail.com
+- Whatsapp: 09021244540
+- X: icodeindarttoo
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Cristiano Ronaldo and I am a Manchester United Fan
