@@ -21,4 +21,4 @@ Portfolio: https://olamideid.netlify.app
 
 Email: iakinola926@gmail.com
 
-Twitter/X: @icodeindarttoo
+Twitter/X: https://x.com/icodeindarttoo
